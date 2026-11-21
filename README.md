@@ -2,6 +2,8 @@
   <img src="banner.png" alt="Welcome to Alvin's GitHub" width="100%" />
 </p>
 
+<h3 align="center">Socials</h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/alvin-panjaitan" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -18,7 +20,7 @@
 
 ---
 
-### 🏛️ About Me
+<h3 align="center">About Me</h3>
 
 <table border="0" width="100%">
   <tr>
@@ -27,11 +29,11 @@
         Hello! I'm <b>Alvin Panjaitan</b>, a Computer Science student and software developer passionate about architecting dependable backend systems and building comprehensive digital products.
       </p>
       <p>
-        I enjoy bridging the gap between clean, intuitive user interfaces and resilient high performance backends. With a focus on structured problem solving and team collaboration, I strive to build reliable software solutions that deliver real world impact.
+        I enjoy bridging the gap between clean, intuitive user interfaces and resilient, high-performance backends. With a focus on structured problem solving and team collaboration, I strive to build reliable software solutions that deliver real-world impact.
       </p>
       <p>
-        🎓 <b>Focus:</b> Backend Architecture & Full-Stack Product Engineering<br>
-        🤝 <b>Collaboration:</b> Open to tech team collaborations and innovative projects
+        <b>Focus:</b> Backend Architecture & Full-Stack Product Engineering<br>
+        <b>Collaboration:</b> Open to tech team collaborations, open-source initiatives & innovative projects
       </p>
     </td>
     <td width="22%" align="center" valign="middle">
@@ -42,7 +44,7 @@
 
 ---
 
-### ⚙️ Technologies & Tools
+<h3 align="center">Technologies & Tools</h3>
 
 <p align="center"><b>Languages & Frameworks</b></p>
 <p align="center">
@@ -74,24 +76,22 @@
 
 ---
 
-### 📊 GitHub Statistics
+<h3 align="center">GitHub Statistics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlvinPanjaitan&show_icons=true&bg_color=000000&border_color=1E293B&title_color=FFFFFF&text_color=94A3B8&icon_color=2563EB&rank_icon=github" alt="Alvin's GitHub Stats" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAlvinPanjaitan&query=%24.public_repos&label=TOTAL%20REPOSITORIES&color=2563EB&labelColor=000000&style=for-the-badge&logo=github&logoColor=white" alt="Total Repositories" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlvinPanjaitan&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&border_color=1E293B&title_color=FFFFFF&text_color=94A3B8&icon_color=2563EB&rank_icon=github" alt="Alvin's GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinPanjaitan&layout=compact&bg_color=000000&border_color=1E293B&title_color=FFFFFF&text_color=94A3B8" alt="Top Languages" />
 </p>
 
 ---
 
-### 📈 Activity Graph
+<h3 align="center">Activity Graph</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlvinPanjaitan&bg_color=000000&color=FFFFFF&line=2563EB&point=60A5FA&area=true&area_color=1E3A8A&hide_border=false&border=1E293B" alt="Alvin's Contribution Graph" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <i>"Waste no more time arguing what a good man should be. Be one." — Marcus Aurelius</i>
 </p>
